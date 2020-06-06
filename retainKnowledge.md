@@ -1,0 +1,1 @@
+https://medium.com/swlh/how-to-study-smarter-not-harder-and-retain-more-in-less-time-3767c5621d0a
