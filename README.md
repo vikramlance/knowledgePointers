@@ -1,1 +1,1 @@
-# knowledgePointers
+# Collection of useful links
