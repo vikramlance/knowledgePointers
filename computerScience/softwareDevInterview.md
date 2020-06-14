@@ -1,2 +1,2 @@
 - 7 Proven Job Interview Questions—and What to Look for in the Answers
-<https://hire.google.com/articles/7-proven-job-interview-questions/>
+<br>https://hire.google.com/articles/7-proven-job-interview-questions/
