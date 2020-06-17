@@ -1,2 +1,2 @@
-- BINARY CODE EXPLAINED STEP-BY-STEP: HOW DOES BINARY WORK?
+- Binary code explained step-by-step: how does binary work?
 <br>https://mikkegoes.com/computer-science-binary-code-explained/
