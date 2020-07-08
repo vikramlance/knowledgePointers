@@ -1,4 +1,4 @@
-- Mentorship and Success
-<br>https://medium.com/@faisal.fazal105/mentorship-and-success-57e490e32183
+- What’s the Secret Ingredient to Great Mentorship?
+<br>https://insight.kellogg.northwestern.edu/article/great-mentorship-research
 
 ![alt text](https://github.com/vikramlance/knowledgePointers/blob/master/images/mentoring.jpg?raw=true)
