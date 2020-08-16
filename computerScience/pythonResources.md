@@ -1,3 +1,5 @@
+- Python decorators
+<br> https://www.geeksforgeeks.org/python-decorators-a-complete-guide/
 - List comprehension
 <br> https://www.pythonforbeginners.com/basics/list-comprehensions-in-python
 - The hitchhiker's guide to python
