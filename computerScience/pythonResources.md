@@ -1,3 +1,5 @@
+- WSGI for web developers
+<br> https://www.youtube.com/watch?v=WqrCnVAkLIo&t=406s
 - Falsk vs Django
 <br>https://www.youtube.com/watch?v=MVp80hz4rxM
 - Python decorators
