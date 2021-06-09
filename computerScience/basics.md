@@ -6,3 +6,5 @@
 <br>https://mikkegoes.com/computer-science-binary-code-explained/
 - Big-O Cheat Sheet
 <br>https://www.bigocheatsheet.com/
+- Call by value and call by reference in c
+<br>https://aticleworld.com/call-by-value-and-call-by-reference-in-c/
