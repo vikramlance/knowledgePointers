@@ -1,3 +1,6 @@
+
+- A complete beginners guide to django
+<br> https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html
 - WSGI for web developers
 <br> https://www.youtube.com/watch?v=WqrCnVAkLIo&t=406s
 - Falsk vs Django
