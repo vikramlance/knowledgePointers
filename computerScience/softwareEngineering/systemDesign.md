@@ -1,0 +1,1 @@
+- [Machine Coding Tutorial on WorkAt Tech](https://workat.tech/machine-coding/tutorial/introduction-clean-code-software-design-principles-nwu4qqc63e09)
