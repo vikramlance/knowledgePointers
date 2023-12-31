@@ -21,4 +21,15 @@
 - [YouTube - Mastering LeetCode](https://www.youtube.com/watch?v=bUHFg8CZFws)
 - [Tech Interview Handbook by Yangshun Tay](https://github.com/yangshun/tech-interview-handbook)
 - [Mock interview video](https://www.youtube.com/watch?v=1qw5ITr3k9E)
+- [cheet sheets](https://github.com/sk3pp3r/cheat-sheet-pdf)
+- [YouTube - Why are you good fit for this role](https://www.youtube.com/watch?v=-HfeTdf2gSw)
+- [YouTube - Tell me about yourself](https://www.youtube.com/watch?v=jZJKb-obz1E)
+- [LinkedIn Behvioral Question](https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10023,aq23)/)
+- [iGotAnOffer - Amazon Software Development Engineer Interview Guide](https://igotanoffer.com/blogs/tech/amazon-software-development-engineer-interview)
+- [Glassdoor - Amazon Software Engineer Interview Questions](https://www.glassdoor.com/Interview/Amazon-Software-ENgineer-Interview-Questions-EI_IE6036.0,6_KO7,24.htm)
+- [Cyber Geek Squad - Amazon Online Assessment 2023](https://cybergeeksquad.co/amazon-oa-online-assessment-2023.html)
+- [Quora - Amazon SDE-2 Interview Questions](https://www.quora.com/What-are-the-questions-asked-in-the-Amazon-interview-for-SDE-2)
+- [GitHub - LeetCode Company-Wise Problems (Amazon)](https://github.com/hxu296/leetcode-company-wise-problems-2022/blob/main/companies/Amazon.csv)
+- [GitHub Topics - Amazon Interview](https://github.com/topics/amazon-interview)
+
 
