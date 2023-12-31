@@ -1,4 +1,12 @@
-- problem patterns leetcode
-<br> https://seanprashad.com/leetcode-patterns/
-- 7 Proven Job Interview Questions—and What to Look for in the Answers
-<br>https://hire.google.com/articles/7-proven-job-interview-questions/
+# Interview Preparation Resources
+- [LeetCode Grinding Notes](https://www.reddit.com/r/developersIndia/comments/m0h520/notes_while_grinding_leetcode/)
+- [Coding Interview Playlist on YouTube](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+- [LeetCode Subreddit](https://www.reddit.com/r/leetcode/)
+- [Tech Interview Handbook - Techniques](https://www.techinterviewhandbook.org/coding-interview-techniques/)
+- [LeetCode - Easy Array Problems](https://leetcode.com/problemset/all/?difficulty=EASY&page=1&topicSlugs=array&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJESUZGSUNVTFRZIn1d)
+- [Effective Use of LeetCode for Interviews](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews)
+- [LeetCode Study Guide](https://leetcode.com/discuss/study-guide?currentPage=1&orderBy=most_votes&query=)
+- [Tech Interview Handbook - Graph Algorithms](https://www.techinterviewhandbook.org/algorithms/graph/#:~:text=In%20algorithm%20interviews%2C%20graphs%20are,with%20traversing%20a%202D%20matrix.)
+- [DFS for a Graph - GeeksforGeeks](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
+- [problem patterns leetcode](https://seanprashad.com/leetcode-patterns/)
+- [7 Proven Job Interview Questions—and What to Look for in the Answers](https://hire.google.com/articles/7-proven-job-interview-questions/)
