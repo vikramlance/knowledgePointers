@@ -10,3 +10,8 @@
 - [DFS for a Graph - GeeksforGeeks](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
 - [problem patterns leetcode](https://seanprashad.com/leetcode-patterns/)
 - [7 Proven Job Interview Questions—and What to Look for in the Answers](https://hire.google.com/articles/7-proven-job-interview-questions/)
+- [Algorithm Visualizer](https://algorithm-visualizer.org/)
+- [How to Master Algorithms and Data Structures Without Burning Your Brain](https://levelup.gitconnected.com/how-to-master-algorithms-and-data-structures-without-burning-your-brain-e3d21a64ff56)
+- [Stack Overflow - Algorithm Questions](https://stackoverflow.com/questions/tagged/algorithm?tab=Votes)
+- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [Coding Patterns by Emre Yilmaz](https://emre.me/categories/#coding-patterns)
