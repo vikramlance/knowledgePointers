@@ -15,3 +15,9 @@
 - [Stack Overflow - Algorithm Questions](https://stackoverflow.com/questions/tagged/algorithm?tab=Votes)
 - [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [Coding Patterns by Emre Yilmaz](https://emre.me/categories/#coding-patterns)
+- [Neetcode Practice](https://neetcode.io/practice)
+- [Google Spreadsheet for Interview Preparation](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
+- [Excalidraw - Collaborative Whiteboard Tool](https://excalidraw.com/)
+- [YouTube - Mastering LeetCode](https://www.youtube.com/watch?v=bUHFg8CZFws)
+- [Tech Interview Handbook by Yangshun Tay](https://github.com/yangshun/tech-interview-handbook)
+
