@@ -20,4 +20,5 @@
 - [Excalidraw - Collaborative Whiteboard Tool](https://excalidraw.com/)
 - [YouTube - Mastering LeetCode](https://www.youtube.com/watch?v=bUHFg8CZFws)
 - [Tech Interview Handbook by Yangshun Tay](https://github.com/yangshun/tech-interview-handbook)
+- [Mock interview video](https://www.youtube.com/watch?v=1qw5ITr3k9E)
 
